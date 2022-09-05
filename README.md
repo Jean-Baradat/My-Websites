@@ -1,2 +1,6 @@
-# My-Websites
-Retrouver quelques-uns des sites Web que j'ai réalisés et que j'ai pensé à mettre ici.
+# Mes Sites Web
+> Ci-dessus vous trouverez les URL vers mes projets Web quand j'ai pensé à les mettre (ou quand j'ai pu les mettre)
+
+ - [Petite Home Page réalisée en 3 jours pendant mon DEUST](https://jean-baradat.github.io/Jean-Baradat-S4-UE234/)
+   
+ - [Mon rapport de Stage réalisé chez Le Panier de Josy (Mot de passe requis)](https://rapport-jean-baradat.webflow.io/)
