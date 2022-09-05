@@ -1,5 +1,5 @@
 # Mes Sites Web
-> Ci-dessus vous trouverez les URL vers mes projets Web quand j'ai pensé à les mettre (ou quand j'ai pu les mettre)
+> Ci-dessus vous trouverez les URLs vers mes projets Web quand j'ai pensé à les mettre (ou quand j'ai pu les mettre)
 
  - [Petite Home Page réalisée en 3 jours pendant mon DEUST](https://jean-baradat.github.io/Jean-Baradat-S4-UE234/)
    
